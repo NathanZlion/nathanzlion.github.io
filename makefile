@@ -3,5 +3,8 @@
 run:
 	@bundle exec jekyll s
 
-.DEFAULT_GOAL := run
+dev:
+	@bundle exec jekyll serve --livereload
+
+.DEFAULT_GOAL := dev
 

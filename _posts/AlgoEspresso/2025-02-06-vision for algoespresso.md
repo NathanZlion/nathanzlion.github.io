@@ -5,7 +5,7 @@ categories: [AlgoEspresso]
 tags: [project]
 toc: true
 comments: true
-pin: true
+pin: false
 image: /assets/img/2025-02-06-vision for algoespresso/logo.png
 ---
 
@@ -64,4 +64,4 @@ prepping for an interview.
 Contest is a features I aim to build later on.
 
 
-[Checkout AlgoEspresso](https://github.com/NathanZlion/AlgoEspresso/)
+[🔗 Checkout AlgoEspresso](https://github.com/NathanZlion/AlgoEspresso/)
